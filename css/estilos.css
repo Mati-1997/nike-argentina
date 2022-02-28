@@ -113,6 +113,16 @@ section {
     align-content: end;
     padding: 50px;
 }
+#imagen7 {
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_1253,c_limit/85b1cd26-23ff-44a1-80b6-360ce24cf5ed/sitio-web-oficial-de-nike.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    display: grid;
+    justify-content: start;
+    align-content: end;
+    padding: 50px;
+}
 
 .destacado_blanco {
     color: white;
