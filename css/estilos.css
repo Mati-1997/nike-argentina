@@ -83,6 +83,37 @@ section {
     padding: 50px;
 }
 
+#imagen4 {
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_1253,c_limit/8f674067-6ff4-4ca1-bfe8-9d674e96e9c9/sitio-web-oficial-de-nike.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    display: grid;
+    justify-content: start;
+    align-content: end;
+    padding: 50px;
+}
+#imagen5 {
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_621,c_limit/3b434988-aef2-45cd-a59a-a9da2e0db670/sitio-web-oficial-de-nike.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    display: grid;
+    justify-content: start;
+    align-content: end;
+    padding: 50px;
+}
+#imagen6 {
+    background-image: url("https://static.nike.com/a/images/f_auto/dpr_1.0,cs_srgb/w_621,c_limit/ca34da6b-1b57-4db5-bb91-0863f09da466/sitio-web-oficial-de-nike.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    display: grid;
+    justify-content: start;
+    align-content: end;
+    padding: 50px;
+}
+
 .destacado_blanco {
     color: white;
 }
@@ -167,4 +198,11 @@ footer a {
 
 #links_redes {
     text-align: right;
+}
+
+#dos-columnas {
+    display: grid;
+    grid-template-columns:auto auto;
+    column-gap: 10px;
+
 }
